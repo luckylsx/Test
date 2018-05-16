@@ -13,4 +13,3 @@ test
 revert
 
 commit test
-git revert HEAD^
