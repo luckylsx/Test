@@ -16,3 +16,5 @@ commit test
 git revert HEAD^
 
 revert test
+
+this is test
